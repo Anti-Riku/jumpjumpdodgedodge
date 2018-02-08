@@ -6,6 +6,8 @@ Build/*
 Obj/*
 WebBuild/*
 WindowsBuild/*
+Release Build/*
+AndroidAPK/*
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
