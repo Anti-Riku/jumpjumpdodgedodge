@@ -8,6 +8,7 @@ WebBuild/*
 WindowsBuild/*
 Release Build/*
 AndroidAPK/*
+AlphaBuilds/*
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #

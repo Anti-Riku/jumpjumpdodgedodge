@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class CharacterController2D : MonoBehaviour {
+   
     //Rigid body controller
     public Rigidbody2D rBody;
 
@@ -18,6 +19,7 @@ public class CharacterController2D : MonoBehaviour {
     //Are we grounded
     public bool isGrounded;
 
+    //how far we must move
     private float move;
 
     // Use this for initialization
