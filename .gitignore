@@ -1,14 +1,14 @@
 # Unity generated and a few customs #
 # ================================= #
-Temp/*
-Library/*
-Build/*
-Obj/*
-WebBuild/*
-WindowsBuild/*
-Release Build/*
-AndroidAPK/*
-AlphaBuilds/*
+Keiko's Story/Temp/*
+Keiko's Story/Library/*
+Keiko's Story/Build/*
+Keiko's Story/Obj/*
+Keiko's Story/WebBuild/*
+Keiko's Story/WindowsBuild/*
+Keiko's Story/Release Build/*
+Keiko's Story/AndroidAPK/*
+Keiko's Story/AlphaBuilds/*
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
